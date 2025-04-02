@@ -1,0 +1,58 @@
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\DMail.exe.config
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\DMail.exe
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\DMail.pdb
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\DMail.xml
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\Microsoft.Identity.Client.dll
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\Newtonsoft.Json.dll
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Buffers.dll
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Memory.dll
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Numerics.Vectors.dll
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\Microsoft.Identity.Client.xml
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\Newtonsoft.Json.xml
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Buffers.xml
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Memory.xml
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Numerics.Vectors.xml
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.vbproj.AssemblyReference.cache
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.DownloadMail.resources
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.Resources.resources
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.vbproj.GenerateResource.cache
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.vbproj.CoreCompileInputs.cache
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.vbproj.CopyComplete
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.exe
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.xml
+D:\VAISHU(BACKUP)\VAISHU(BACKUP)\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.pdb
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\DMail.exe.config
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\DMail.exe
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\DMail.pdb
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\DMail.xml
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\Microsoft.Identity.Client.dll
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\Newtonsoft.Json.dll
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Buffers.dll
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Memory.dll
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Numerics.Vectors.dll
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\Microsoft.Identity.Client.xml
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\Newtonsoft.Json.xml
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Buffers.xml
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Memory.xml
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Numerics.Vectors.xml
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.vbproj.AssemblyReference.cache
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.DownloadMail.resources
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.Resources.resources
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.vbproj.GenerateResource.cache
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.vbproj.CoreCompileInputs.cache
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.vbproj.CopyComplete
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.exe
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.xml
+C:\vaishu\Desktop  recent  Application\Desktop  recent  Application\DMail\DMail\obj\Debug\DMail.pdb
